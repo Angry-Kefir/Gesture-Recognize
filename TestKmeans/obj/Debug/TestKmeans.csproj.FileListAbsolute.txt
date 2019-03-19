@@ -1,0 +1,12 @@
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\bin\Debug\TestKmeans.exe.config
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\bin\Debug\TestKmeans.exe
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\bin\Debug\TestKmeans.pdb
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\bin\Debug\alglibnet2.dll
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\obj\Debug\TestKmeans.csprojAssemblyReference.cache
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\obj\Debug\TestKmeans.Kmeans.resources
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\obj\Debug\TestKmeans.Properties.Resources.resources
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\obj\Debug\TestKmeans.csproj.GenerateResource.cache
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\obj\Debug\TestKmeans.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\obj\Debug\TestKmeans.csproj.CopyComplete
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\obj\Debug\TestKmeans.exe
+D:\YandexDisk\Программирование\GestureRecognize\TestKmeans\obj\Debug\TestKmeans.pdb

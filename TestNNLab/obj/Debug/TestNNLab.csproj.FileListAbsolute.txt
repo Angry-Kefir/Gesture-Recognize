@@ -1,0 +1,15 @@
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\bin\Debug\TestNNLab.exe.config
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\bin\Debug\TestNNLab.exe
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\bin\Debug\TestNNLab.pdb
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\bin\Debug\AForge.Controls.dll
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\bin\Debug\AForge.dll
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\bin\Debug\AForge.Neuro.dll
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\obj\Debug\TestNNLab.Form1.resources
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\obj\Debug\TestNNLab.Properties.Resources.resources
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\obj\Debug\TestNNLab.csproj.GenerateResource.cache
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\obj\Debug\TestNNLab.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\obj\Debug\TestNNLab.csproj.CopyComplete
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\obj\Debug\TestNNLab.exe
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\obj\Debug\TestNNLab.pdb
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\obj\Debug\TestNNLab.csprojAssemblyReference.cache
+D:\YandexDisk\Программирование\GestureRecognize\TestNNLab\obj\Debug\TestNNLab.NNLab.resources

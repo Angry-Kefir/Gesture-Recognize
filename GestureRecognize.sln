@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureRecognize", "GestureRecognize\GestureRecognize.csproj", "{C35D7982-B04E-4BE2-9DA0-EFE1A5DFD9F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNNLab", "TestNNLab\TestNNLab.csproj", "{DB70D6EA-57AE-4C11-BE2B-2F036846471A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzyTest", "FuzzyTest\FuzzyTest.csproj", "{21FE2614-058A-49BC-BC36-4CDCB4007FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35D7982-B04E-4BE2-9DA0-EFE1A5DFD9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35D7982-B04E-4BE2-9DA0-EFE1A5DFD9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35D7982-B04E-4BE2-9DA0-EFE1A5DFD9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35D7982-B04E-4BE2-9DA0-EFE1A5DFD9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB70D6EA-57AE-4C11-BE2B-2F036846471A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB70D6EA-57AE-4C11-BE2B-2F036846471A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB70D6EA-57AE-4C11-BE2B-2F036846471A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB70D6EA-57AE-4C11-BE2B-2F036846471A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21FE2614-058A-49BC-BC36-4CDCB4007FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FE2614-058A-49BC-BC36-4CDCB4007FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FE2614-058A-49BC-BC36-4CDCB4007FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FE2614-058A-49BC-BC36-4CDCB4007FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91561592-1C9B-4081-9BCF-7546798FDB89}
+	EndGlobalSection
+EndGlobal
